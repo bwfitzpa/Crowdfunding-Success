@@ -1,8 +1,7 @@
 # Written Report
 ### “Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?”
 
-	The data allow you to draw several conclusions, the first one being most projects were successful.
- 565 out of 1000 projects were funded, or 565 out of 986 if the projects that are still “live” are excluded
+	The data allow you to draw several conclusions, the first one being most projects were successful. 565 out of 1000 projects were funded, or 565 out of 986 if the projects that are still “live” are excluded
 given we do not know their outcome. This also tells you that although most projects are successful, success is not guaranteed. 364 projects failed to meet their goal and 57 were cancelled, thus it is clearly necessary to have a project and a pitch that is appealing to potential donors, people are not just giving money to every project they see.
 	Examining the line graph showing outcome by month, success peaks in July, with a high percentage of projects being successful in both June and July. While projects are the least likely to be successful in August. Therefore, if you are looking to launch a project peak Summer is the ideal time to have your project out for funding, but you want to make sure you avoid August.
 	For the categories of projects that are most successful, journalism projects were the most successful, 100% were funded, although there were only four journalism projects so this conclusion is tentative at best. After journalism projects, technology projects were the most successful at receiving funding, while games projects were the least successful. Therefore, if you are choosing between pursuing a technology project and gaming project should go with the gaming project if you want a higher chance of funding. 
