@@ -1,4 +1,5 @@
 # Written Report
+The goal of this project was to determine which projects on crowdfunding platforms are successful at receiving funding.
 ### “Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?”
 
 	The data allow you to draw several conclusions, the first one being most projects were successful. 565 out of 1000 projects were funded, or 565 out of 986 if the projects that are still “live” are excluded given we do not know their outcome. This also tells you that although most projects are successful, success is not guaranteed. 364 projects failed to meet their goal and 57 were cancelled, thus it is clearly necessary to have a project and a pitch that is appealing to potential donors, people are not just giving money to every project they see.
